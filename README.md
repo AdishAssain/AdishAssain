@@ -6,6 +6,9 @@
    <a href="https://github.com/AdishAssain">
     <img src="https://img.shields.io/badge/github-AdishAssain-211F1F?logo=github&logoColor=white&style=flat-square" />
   </a>
+     <a href="https://twitter.com/adishillikkal">
+    <img src="https://img.shields.io/badge/twitter-adishillikkal-211F1F?logo=twitter&logoColor=white&style=flat-square" />
+  </a>
   <a href="https://in.linkedin.com/in/adish-assain-327b5a1a4">
     <img src="https://img.shields.io/badge/linkedin-Adish Assain-0072B1?logo=linkedin&style=flat-square" />
   </a>
